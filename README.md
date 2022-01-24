@@ -15,5 +15,7 @@ diferenças (sutis e importantes) entre eles.
 ∏  = ( (2n/2n-1) * (2n/2n+1) ) = 2π
 
 
+∞
+∑   = ((- 1)^n) / 2n-1 = 4π
 
 
