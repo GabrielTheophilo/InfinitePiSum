@@ -1,4 +1,4 @@
-# InfinitePiSum
+<div align="center"> <h1> InfinitePiSum </h1> </div>
 
 Pt-BR
 O segundo trabalho proposto na disciplina de INF 110 - Programação 1 consiste na
@@ -7,7 +7,9 @@ convergência de cada uma. A partir das fórmulas de Wallis, Euler, Leibniz e
 Nilakantha obtive resultados que mostram uma convergência similar, porém com
 diferenças (sutis e importantes) entre eles.
 
-π = 3 + 4*  ∑   ( (−1^n) / (2n + 3)^3 - (2n + 3) )
+<div align="center">
+
+  <h2 font="bold">π = 3 + 4*  ∑   ( (−1^n) / (2n + 3)^3 - (2n + 3) )
 
 
 
@@ -18,4 +20,6 @@ diferenças (sutis e importantes) entre eles.
 ∞
 ∑   = ((- 1)^n) / 2n-1 = 4π
 
-
+  </h2>
+  
+</div>
