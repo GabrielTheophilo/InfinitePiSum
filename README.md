@@ -8,6 +8,12 @@ Nilakantha obtive resultados que mostram uma convergência similar, porém com
 diferenças (sutis e importantes) entre eles.
 
 π = 3 + 4*  ∑   ( (−1^n) / (2n + 3)^3 - (2n + 3) )
-           n≥0
+
+
+
+∞
+∏  = ( (2n/2n-1) * (2n/2n+1) ) = 2π
+
+
 
 
